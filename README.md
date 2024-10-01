@@ -4,7 +4,7 @@
 - 💡 Always eager to explore new domains and technologies
 - 🎮 Video games and coding culture ignited my interest in tech
 - 💼 Aspiring to build a career in software engineering
-- 
+
 Feel free to check out my projects and connect with me!
  imad.ait-ben-salah@student-cs.fr
 
