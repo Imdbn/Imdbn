@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Imad Ait BEN SALAH
 
-- 🎓 2nd-year student at CentraleSupélec with a passion for computer science
+- 🎓 3rd-year student at CentraleSupélec with a passion for computer science
 - 💡 Always eager to explore new domains and technologies
 - 🎮 Video games and coding culture ignited my interest in tech
 - 💼 Aspiring to build a career in software engineering and data science.
